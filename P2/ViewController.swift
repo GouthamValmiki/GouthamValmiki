@@ -11,6 +11,7 @@ class ViewController: UIViewController {
     
     var data = ["Lion","Doll","Run","Raj","Tiger"]
     var data2 = [1,2,3]
+    var data3 = [""]
     override func viewDidLoad() {
         super.viewDidLoad()
         
