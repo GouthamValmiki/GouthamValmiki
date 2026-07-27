@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200" viewBox="0 0 800 200">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0A0A23;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#0A84FF;stop-opacity:0.3" />
+      <stop offset="100%" style="stop-color:#0A0A23;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0A84FF;stop-opacity:0" />
+      <stop offset="50%" style="stop-color:#0A84FF;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0A84FF;stop-opacity:0" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="200" fill="url(#bg)" rx="10"/>
+  <rect x="0" y="95" width="800" height="2" fill="url(#accent)" opacity="0.6"/>
+  <!-- App icon mockup -->
+  <rect x="30" y="30" width="140" height="140" rx="28" fill="#1C1C3A" stroke="#0A84FF" stroke-width="2"/>
+  <text x="100" y="85" font-family="SF Pro Display, Arial, sans-serif" font-size="48" fill="#0A84FF" font-weight="bold" text-anchor="middle">G</text>
+  <text x="100" y="135" font-family="SF Pro Display, Arial, sans-serif" font-size="22" fill="#8E8EA0" text-anchor="middle">iOS</text>
+  <!-- Main text -->
+  <text x="210" y="70" font-family="SF Pro Display, Arial, sans-serif" font-size="36" fill="#FFFFFF" font-weight="bold">Goutham Boya</text>
+  <text x="210" y="105" font-family="SF Pro Display, Arial, sans-serif" font-size="18" fill="#0A84FF">iOS Engineer · Swift · SwiftUI · UIKit</text>
+  <text x="210" y="135" font-family="SF Pro Display, Arial, sans-serif" font-size="14" fill="#8E8EA0">2+ Years · Clean Architecture · Real-World Apps</text>
+  <!-- Decorative dots -->
+  <circle cx="690" y="40" r="3" fill="#0A84FF" opacity="0.4"/>
+  <circle cx="720" y="40" r="3" fill="#0A84FF" opacity="0.6"/>
+  <circle cx="750" y="40" r="3" fill="#0A84FF" opacity="0.8"/>
+  <circle cx="780" y="40" r="3" fill="#0A84FF"/>
+  <!-- Swift logo hint -->
+  <path d="M730 140 L760 110 L790 140 L760 170 Z" fill="none" stroke="#0A84FF" stroke-width="1.5" opacity="0.3"/>
+</svg>
