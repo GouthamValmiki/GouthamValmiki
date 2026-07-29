@@ -26,7 +26,7 @@ iOS Engineer with **2+ years** of hands-on experience building production-grade 
 let goutham = Developer(
     role: "iOS Engineer",
     experience: "2+ years",
-    skills: ["Swift", "SwiftUI(Beginner)", "UIKit", "RestAPIs"],
+    skills: ["Swift", "SwiftUI", "UIKit", "RestAPIs"],
     architecture: ["MVC", "MVVM"],
     passion: "Building apps that solve real problems",
     currentlyExploring: "Advanced SwiftUI Animations & System Design"
